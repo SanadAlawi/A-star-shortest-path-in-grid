@@ -1,0 +1,3 @@
+# A-star-shortest-path-in-grid
+
+This Java program implements the A* algorithm to find the shortest path between a start cell and a destination cell on a grid system. The start cell is marked in green, while the destination cell is marked in red, and the user can select these cells by clicking on them. Additionally, the user can add obstacles to the grid by dragging the mouse, which generates black cells that block the path between the start and destination. The A* algorithm uses a heuristic to estimate the distance between each cell and the destination, allowing it to search the grid system efficiently and find the optimal path. The resulting shortest path is then highlighted in yellow, providing a visual representation of the optimal route.
